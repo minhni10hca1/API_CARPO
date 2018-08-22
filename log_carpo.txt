@@ -1,0 +1,336 @@
+2018-03-10 error db FunctionUtil:Exception opening socket
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-10 error db trackingService:empty String
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-12 error db HomeCalculatorKmBefore:null
+2018-03-21 error db trackingService:Interrupted acquiring a permit to retrieve an item from the pool 
+2018-03-29 error db FunctionUtil:null
+2018-03-29 error db FunctionUtil:null
+2018-04-05 error db trackingService:Interrupted acquiring a permit to retrieve an item from the pool 
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-06 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: [0983127412]
+2018-04-11 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: ["5a1669fba9d32d79dec842b2"]
+2018-04-11 error db ConfirmCarStatusService:invalid hexadecimal representation of an ObjectId: ["5a1669fba9d32d79dec842b2"]
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:Exception sending message
+2018-05-24 error db FunctionUtil:Timed out after 30000 ms while waiting for a server that matches ReadPreferenceServerSelector{readPreference=primary}. Client view of cluster state is {type=UNKNOWN, servers=[{address=127.0.0.1:27017, type=UNKNOWN, state=CONNECTING, exception={com.mongodb.MongoSocketOpenException: Exception opening socket}, caused by {java.net.ConnectException: Connection refused: connect}}]
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-05-24 error db FunctionUtil:null
+2018-06-19 error db FunctionUtil:null
+2018-07-19 error db FunctionUtil:null
+2018-07-19 error db FunctionUtil:null
